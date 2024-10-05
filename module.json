@@ -1,0 +1,12 @@
+{
+    "name": "pf2e-sword-saint-class",
+    "title": "Sword Saint Class for PF2e",
+    "description": "Sword Saint class by Miqo",
+    "version": "1.0.0",
+    "author": "Taco Storm",
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12",
+    "system": "pf2e",
+    "scripts": ["scripts/addTraits.js"]
+  }
+  

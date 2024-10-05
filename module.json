@@ -7,6 +7,7 @@
   ],
   "url": "https://github.com/tacostorm/pf2e-sword-saint-class",
   "manifest": "https://raw.githubusercontent.com/tacostorm/pf2e-sword-saint-class/refs/heads/main/module.json?v=1",
+  "download": "https://github.com/tacostorm/pf2e-sword-saint-class/archive/refs/tags/v0.0.1.zip",
   "id": "pf2e-sword-saint-class",
   "relationships": {
     "systems": [

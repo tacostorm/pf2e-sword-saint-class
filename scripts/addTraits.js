@@ -5,6 +5,7 @@ Hooks.once('init', function() {
       "fusion": "Fusion",
       "style": "Style",
       "weapon-art": "Weapon Art"
+      "sword-saint": "Sword Saint"
     };
   
     // Add these custom weapon traits to the system's existing weapon traits

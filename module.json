@@ -3,8 +3,7 @@
   "description": "Sword Saint class by Miqo",
   "version": "1.0.0",
   "scripts": [
-    "scripts/addTraits.js",
-    "scripts/addCompendiums.js"
+    "scripts/addTraits.js"
   ],
   "url": "https://github.com/tacostorm/pf2e-sword-saint-class",
   "manifest": "https://raw.githubusercontent.com/tacostorm/pf2e-sword-saint-class/refs/heads/main/module.json?v=1",
@@ -26,13 +25,49 @@
     {
       "name": "sword-saint-class",
       "label": "Sword Saint Class",
+      "path": "packs/sword-saint-class",
       "type": "Item",
-      "path": "packs/sword-saint-class.json",
-      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "sword-saint-actions",
+      "label": "Sword Saint Actions",
+      "path": "packs/sword-saint-actions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "sword-saint-features",
+      "label": "Sword Saint Features",
+      "path": "packs/sword-saint-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "sword-saint-feats",
+      "label": "Sword Saint Feats",
+      "path": "packs/sword-saint-feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
       "flags": {}
     }
   ]

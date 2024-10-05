@@ -7,7 +7,7 @@
     "scripts/addCompendiums.js"
   ],
   "url": "https://github.com/tacostorm/pf2e-sword-saint-class",
-  "manifest": "https://github.com/tacostorm/pf2e-sword-saint-class/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/tacostorm/pf2e-sword-saint-class/refs/heads/main/module.json",
   "id": "pf2e-sword-saint-class",
   "relationships": {
     "systems": [

@@ -3,7 +3,8 @@
   "description": "Sword Saint class by Miqo",
   "version": "1.0.0",
   "scripts": [
-    "scripts/addTraits.js"
+    "scripts/addTraits.js",
+    "scripts/addCompendiums.js"
   ],
   "url": "https://github.com/tacostorm/pf2e-sword-saint-class",
   "manifest": "https://github.com/tacostorm/pf2e-sword-saint-class/blob/main/module.json",
@@ -20,5 +21,15 @@
   "compatibility": {
     "minimum": "12",
     "verified": "12"
-  }
+  },
+  "packs": [
+    {
+      "name": "sword-saint-class",
+      "label": "Sword Saint Class",
+      "type": "Item",
+      "path": "packs/sword-saint-class.json"
+    
+    }
+  ]
+  
 }

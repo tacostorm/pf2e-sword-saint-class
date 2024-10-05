@@ -27,9 +27,13 @@
       "name": "sword-saint-class",
       "label": "Sword Saint Class",
       "type": "Item",
-      "path": "packs/sword-saint-class.json"
-    
+      "path": "packs/sword-saint-class.json",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ]
-  
 }

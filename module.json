@@ -9,6 +9,6 @@
     "system": "pf2e",
     "scripts": ["scripts/addTraits.js"],
     "url": "https://github.com/tacostorm/pf2e-sword-saint-class",
-    "manifest": "https://github.com/tacostorm/pf2e-sword-saint-class/blob/main/module.json"
+    "manifest": "https://raw.githubusercontent.com/tacostorm/pf2e-sword-saint-class/main/module.json"
   }
   

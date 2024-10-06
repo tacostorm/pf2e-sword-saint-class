@@ -15,7 +15,16 @@ Hooks.once('init', function() {
     "flair": "Flair",
     "fusion": "Fusion",
     "style": "Style",
-    "weapon-art": "Weapon Art"
+    "weapon-art": "Weapon Art",
+    "limit-break": "Limit Break",
+    "commando": "Commando",
+    "medic": "Medic",
+    "ravager": "Ravager",
+    "saboteur": "Saboteur",
+    "sentinel": "Sentinel",
+    "synergist": "Synergist",
+    "destructive-fist": "Destructive Fist",
+    
   };
 
   // Add these custom weapon traits to the system's existing weapon traits
